@@ -1,5 +1,7 @@
 # From DS to MLOPs
 
+https://engineering.rappi.com/serve-your-first-model-with-scikit-learn-flask-docker-df95efbbd35e
+
 From Data Science to MLOPs workshop
 
 # Dataset
